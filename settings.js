@@ -31,7 +31,7 @@ global.APIs = {
 
 global.APIKeys = {
 
-	'https://zenzapis.xyz': '0b0df72a76', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 
 }
 
@@ -39,17 +39,17 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚']
+global.owner = ['King Zit❤️']
 
-global.premium = ['🖤Black Panther Bot🖤']
+global.premium = ['KING ZIT BOT']
 
-global.ownernomer = '+94741671668'
+global.ownernomer = '+923336681780'
 
-global.ownername = 'Didula Rashmika🌹⃝⃘̉̉̉̉̉̉🧚'
+global.ownername = 'King Zit❤️'
 
-global.botname = '🖤Black Panther Bot🖤'
+global.botname = ''
 
-global.footer = '©Black panther🖤.'
+global.footer = '©KING ZIT BOT❤️.'
 
 global.ig = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
@@ -59,19 +59,19 @@ global.sc = 'https://github.com/BlackPanther-svg/BLACK-PANTHER-MD-V2'
 
 global.myweb = 'https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA'
 
-global.packname = '🖤Black Panther Bot🖤'
+global.packname = 'KING ZIT BOT❤️'
 
-global.author = '🖤Black Panther Bot🖤'
+global.author = 'KING ZIT BOT❤️'
 
 global.sessionName = 'session'
 
-global.prefa = ['','!','.','❄','🖤','☃']
+global.prefa = ['','!','.','👻','❤️','✅']
 
 global.sp = '◈'
 
 global.mess = {
 
-    success: 'Done ✓🌹⃝⃘̉̉̉̉̉̉🧚',
+    success: 'Done ✅❤️👻',
 
     admin: 'This Feature Is Only For Admin!✾ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٖٖٜ۬ـٰٖٜ۬ـٰٖٜ۬ـٰٰٖٖٜ۬ـٰٰٰٖٖٖٜ۬ـٰٰٰٰٖٖٖٖٜ۬✾➣',
 
@@ -97,7 +97,7 @@ global.mess = {
 
     premium: "Infinity",
 
-    free: 12,
+    free: 100,
 
     monayawal: 1000
 
